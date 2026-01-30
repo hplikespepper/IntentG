@@ -1,2 +1,2 @@
 # IntentG
-The code for IntentG will be released upon acceptance.
+The code is currently being organized and will be released soon.
